@@ -1,6 +1,7 @@
 # ROS–Unity Demo Setup
 
 clone : git clone git@github.com:Unity-Technologies/Unity-Robotics-Hub.git
+git clone https://github.com/Unity-Technologies/Unity-Robotics-Hub.git
 
 1.
    a) If you don't already have a ROS2 environment set up, we recommend using Docker. Navigate to `tutorials/ros_unity_integration` in your copy of this repo and run the following commands:
